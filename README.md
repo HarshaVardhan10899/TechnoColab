@@ -1,1 +1,1 @@
-# TechnoColab
+# TechnoColab Internship
